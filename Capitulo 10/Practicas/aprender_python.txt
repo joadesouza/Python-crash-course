@@ -1,0 +1,11 @@
+    En python se puede crear y modificar variables, crear listas para luego duplicarlas, 
+borrar elementos de ella, modificarlas, ordenarlas. 
+    Tambien tenemos las tuplas que son como las listas pero fijas, eso significa que no 
+se pueden modificar.
+    Aprendi que en python podemos crear diccionarios que pueden contener valores e incluso listas
+y diccionarios tambien dentro de ellos. Para poder acceder a sus valores necesitamos 
+definir una clave junto a su valor
+    En cuanto a las clases en python podemos crearlas facilmente para asi identificar mejor los objetos, definir
+funciones y jugar un poco con ellas.
+    Actualmente estoy aprendiendo a leer archivos de texto con python. Espero poder aprender rapido y
+bien para asi poder acceder al proximo nivel.
